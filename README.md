@@ -53,7 +53,7 @@
 
   <h2>🖼️ Dashboard Preview</h2>
   <p>
-    <img src="images/dashboard.png" alt="Dashboard Screenshot">
+    <img src="https://github.com/asifk48/E-commerce-Sales-Performance-Dashboard/blob/main/Screenshot/Dashboard.png" alt="Dashboard Screenshot">
   </p>
   <hr>
 
