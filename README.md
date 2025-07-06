@@ -51,6 +51,12 @@
   </ol>
   <hr>
 
+  <h2>🖼️ Dashboard Preview</h2>
+  <p>
+    <img src="images/dashboard.png" alt="Dashboard Screenshot">
+  </p>
+  <hr>
+
   <h2>📝 Conclusion</h2>
   <p>
     The dashboard enables quick and clear insights into business performance, identifies strong markets, and highlights growth opportunities. It is a valuable analytical tool for management decision-making and strategic planning.
