@@ -82,7 +82,7 @@
   <h2>📬 Contact</h2>
   <p>
     For queries or collaboration:<br>
-    📧 Email: <a href="mailto:mohammadasif7494@gmail.com">mohammadasif7494@gmail.com</a><br>
+    📧 Email: <a href="mailto:md.asif5871@gmail.com">md.asif5871@gmail.com</a><br>
     🔗 <a href="https://www.linkedin.com/in/mohammad-asif-khan-a3089a24a">LinkedIn</a>
   </p>
 </body>
